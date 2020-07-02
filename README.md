@@ -1,2 +1,2 @@
 # Apps
-Apps amde using MIT App Inventor 2
+Apps made using MIT App Inventor 2
